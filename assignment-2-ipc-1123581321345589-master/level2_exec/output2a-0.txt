@@ -1,0 +1,2 @@
+argc: 1
+argv[0]: ./args_main

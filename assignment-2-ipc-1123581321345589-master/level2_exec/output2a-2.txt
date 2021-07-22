@@ -1,0 +1,4 @@
+argc: 3
+argv[0]: ./args_main
+argv[1]: README.md
+argv[2]: README-copy.md
